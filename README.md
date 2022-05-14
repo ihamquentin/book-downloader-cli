@@ -1,2 +1,2 @@
 # book-downloader-cli
-helps download books using command line
+helps download books using the command line
