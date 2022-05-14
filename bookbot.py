@@ -167,24 +167,3 @@ if __name__ == "__main__":
         print(e)
 
 
-
-
-
-
-#print(download_book('courage to be disliked', '/dl/2519956/f40a4b', 'epub'))
-
-
-
-
-
-
-
-#a = bookname('python for beginners')
-
-#print(len(book_list(a)))
-#b = int(input('please enter the number of books to display::: '))
-
-#for i in book_list(a)[-5:]:
-    #print(i['title'])
-
-#print(get_book('hi'))
